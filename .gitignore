@@ -1,0 +1,10 @@
+# Gradle files
+.gradle/
+build/
+out/
+
+# Gradle wrapper jar
+gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
